@@ -1,0 +1,17 @@
+{
+  "name": "tbr-cli",
+  "version": "1.0.0",
+  "description": "Command Line Interface",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "tbr": "./bin/index.js"
+  },
+  "author": "skborey@gmail.com",
+  "license": "ISC"
+}
